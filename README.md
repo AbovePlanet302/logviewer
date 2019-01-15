@@ -2,6 +2,7 @@
     <h1>Modmail log viewer</h1>
     <strong><i>A simple webserver to view your selfhosted modmail logs.</i></strong>
     <br>
+    <br>
 
 
 <a href="https://heroku.com/deploy?template=https://github.com/kyb3r/logviewer">
