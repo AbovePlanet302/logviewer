@@ -1,8 +1,6 @@
 <div align="center">
     <h1>Modmail log viewer</h1>
-    <br>
     <strong><i>A simple webserver to view your selfhosted modmail logs.</i></strong>
-    <br>
     <br>
 
 
