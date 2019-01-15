@@ -1,4 +1,4 @@
-parsedatetime
+python-dateutil
 motor
 sanic
 dnspython
